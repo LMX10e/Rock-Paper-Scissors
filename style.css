@@ -14,3 +14,28 @@ button:hover {
   cursor: pointer;
 }
 
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: system-ui;
+
+}
+
+#rps {
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing: 2px;
+    color: pink;
+}
+
+.star {
+    font-size: xx-large;
+    color: pink;
+
+}
+
+
+
+
+
+
